@@ -1,0 +1,17 @@
+#Dependencies
+markdown:   kramdown
+
+#Permalinks
+permalink:  pretty
+relative_permalinks:    false
+
+#Setup
+url:    Naruto8.github.io
+
+author:
+    name:   'Rohith Mukku'
+
+github:
+    repo:   https://github.com/Naruto8
+
+future: true
