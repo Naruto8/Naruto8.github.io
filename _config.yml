@@ -8,6 +8,9 @@ relative_permalinks:    false
 #Setup
 url:    Naruto8.github.io
 
+description: >
+    My first site using Jekyll.
+
 author:
     name:   'Rohith Mukku'
 
