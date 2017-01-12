@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>{{ page.title }}</title>
+            <!-- linking main stylesheet -->
+            <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/main.css">
+        </head>
+        <body>
+        {% include header.html %}
+            <div class="container">
+                {{ content }}
+            </div>
+        {% include footer.html %}
+        </body>
+    </html>
